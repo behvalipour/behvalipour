@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF69B4&width=500&height=50&lines=Diving+into+Technical+AI+Safety;Building,+breaking,+and+learning;Understanding+risks+from+advanced+AI;Medical+Imaging" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF69B4&width=500&height=50&lines=Diving+into+Technical+AI+Safety;Building,+breaking,+and+learning;Understanding+risks+of+advanced+AI;Medical+Imaging" alt="Typing SVG" />
   </a>
 </p>
 
@@ -34,9 +34,9 @@ I am currently concentrating on the technical challenges of AI alignment:
 ### 📊 My Stats
 
 <p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=behvalipour&show_icons=true&theme=rose_pine" alt="stats card" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=behvalipour&show_icons=true&theme=rose_pine&title_color=FF69B4&text_color=FFB6C1&icon_color=FF69B4" alt="stats card" />
 <br><br>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=behvalipour&layout=compact&theme=rose_pine" alt="languages card" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=behvalipour&layout=compact&theme=rose_pine&title_color=FF69B4&text_color=FFB6C1" alt="languages card" />
 </p>
 
 ---
