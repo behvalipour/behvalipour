@@ -12,7 +12,7 @@ An enthusiast committed to learn new things currently diving into the vital fiel
 
 ---
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/master/Fancy%20Lines/Aurora.gif" width="400" alt="Cute Animation">
+  <img src="https://raw.githubusercontent.com/Kelly-Sampson/Kelly-Sampson/main/assets/stars.gif" width="400" alt="Cute Sparkle Animation">
 </p>
 ---
 
@@ -27,7 +27,7 @@ I am currently concentrating on the technical challenges of AI alignment:
 * **Adversarial Robustness** 🛡️
 * **Reward Hacking** 🍬
 
-### 🐍 The Contribution Snake
+### 🐍 My Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/behvalipour/behvalipour/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/behvalipour/behvalipour/output/github-snake.svg">
@@ -37,17 +37,18 @@ I am currently concentrating on the technical challenges of AI alignment:
 ### 📊 My Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=behvalipour&show_icons=true&theme=tokyonight&title_color=FF69B4&text_color=FFB6C1&icon_color=FF69B4" alt="stats card" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=behvalipour&show_icons=true&theme=rose_pine&title_color=FF69B4&text_color=FFB6C1&icon_color=FF69B4" alt="stats card" />
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=behvalipour&layout=compact&theme=tokyonight&title_color=FF69B4&text_color=FFB6C1" alt="languages card" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=behvalipour&layout=compact&theme=rose_pine&title_color=FF69B4&text_color=FFB6C1" alt="languages card" />
 </p>
+
 ---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=behvalipour&color=ff69b4&style=flat-square" alt="Visitor Count" />
 </p>
 
 <p align="center">
-  <a href="#behvalipour">
+  <a href="#-behvalipour">
     <img src="https://img.shields.io/badge/Back%20to%20Top-pink?style=for-the-badge&logo=heart" alt="Back to Top">
   </a>
 </p>
