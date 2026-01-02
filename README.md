@@ -7,3 +7,9 @@ an enthusiast committed to learn new things currently diving into the vital fiel
 
 I am currently concentrating on the technical challenges of AI alignment, including topics like **Mechanistic Interpretability**, **Adversarial Robustness**, and **Reward Hacking**.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/behvalipour/behvalipour/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/behvalipour/behvalipour/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/behvalipour/behvalipour/output/github-snake.svg">
+</picture>
+
