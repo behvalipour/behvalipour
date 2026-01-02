@@ -1,4 +1,4 @@
-# 🎀 BehValipour
+#  BehValipour
 
 <p align="left">
   <a href="https://git.io/typing-svg">
@@ -16,7 +16,7 @@ An enthusiast committed to learn new things currently diving into the vital fiel
 </p>
 ---
 
-## 🌸 Technical AI Safety Focus
+##  Technical AI Safety Focus
 
 ![AI Alignment](https://img.shields.io/badge/Focus-AI%20Alignment-FFB6C1?style=for-the-badge&logo=ai&logoColor=white)
 ![Mechanistic Interpretability](https://img.shields.io/badge/Research-Mech%20Interp-F8C8DC?style=for-the-badge)
@@ -36,12 +36,12 @@ I am currently concentrating on the technical challenges of AI alignment:
 
 ### 📊 My Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=behvalipour&show_icons=true&theme=rose_pine" alt="stats card" />
-<br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=behvalipour&layout=compact&theme=rose_pine" alt="languages card" />
-</p>
 
+<p align="center">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=behvalipour&show_icons=true&theme=sakura" alt="stats card" />
+<br><br>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=behvalipour&layout=compact&theme=sakura" alt="languages card" />
+</p>
 ---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=behvalipour&color=ff69b4&style=flat-square" alt="Visitor Count" />
